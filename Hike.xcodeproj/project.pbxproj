@@ -18,6 +18,8 @@
 		DB1452962C52DC5A00D80A8C /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1452952C52DC5A00D80A8C /* ColorExtension.swift */; };
 		DB1452982C52EB7400D80A8C /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB1452972C52EB7400D80A8C /* CustomButton.swift */; };
 		DBA0110B2C53E9DC003623A0 /* GradientButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA0110A2C53E9DC003623A0 /* GradientButtonStyle.swift */; };
+		DBA0110D2C540174003623A0 /* AnimatedCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA0110C2C540174003623A0 /* AnimatedCircleView.swift */; };
+		DBA0110F2C540A2B003623A0 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA0110E2C540A2B003623A0 /* MotionAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,8 @@
 		DB1452952C52DC5A00D80A8C /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		DB1452972C52EB7400D80A8C /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		DBA0110A2C53E9DC003623A0 /* GradientButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButtonStyle.swift; sourceTree = "<group>"; };
+		DBA0110C2C540174003623A0 /* AnimatedCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedCircleView.swift; sourceTree = "<group>"; };
+		DBA0110E2C540A2B003623A0 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 				DB1452902C52D67100D80A8C /* CardView.swift */,
 				DB1452922C52D8DA00D80A8C /* CustomBG.swift */,
 				DB1452972C52EB7400D80A8C /* CustomButton.swift */,
+				DBA0110C2C540174003623A0 /* AnimatedCircleView.swift */,
+				DBA0110E2C540A2B003623A0 /* MotionAnimationView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -189,6 +195,8 @@
 				DB14528F2C52D65800D80A8C /* ContentView.swift in Sources */,
 				DB1452982C52EB7400D80A8C /* CustomButton.swift in Sources */,
 				DB1452912C52D67100D80A8C /* CardView.swift in Sources */,
+				DBA0110D2C540174003623A0 /* AnimatedCircleView.swift in Sources */,
+				DBA0110F2C540A2B003623A0 /* MotionAnimationView.swift in Sources */,
 				DB1452962C52DC5A00D80A8C /* ColorExtension.swift in Sources */,
 				DB1452932C52D8DA00D80A8C /* CustomBG.swift in Sources */,
 			);
